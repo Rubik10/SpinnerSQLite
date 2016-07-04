@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpinnerSQLite</string>
+    <string name="spinner">Select a Category for view their images</string>
+    <string name="prompt">Select a Category</string>
+</resources>
